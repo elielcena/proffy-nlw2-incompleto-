@@ -1,4 +1,10 @@
-# Proffy
+<h1 align="center">
+	<img alt="Proffy" src=".github/proffy.jpg" width="80%" />
+</h1>
+
+<h3 align="center">
+  Proffy 🎓
+</h3>
 
 
 ### Sobre
