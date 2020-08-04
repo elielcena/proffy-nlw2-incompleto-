@@ -12,3 +12,13 @@ Uma plataforma onde um professor de certa matéria possa disponibilizar seu cont
 
 ### Techs Web
 - [React](https://pt-br.reactjs.org/) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web
+
+### Como Instalar e Usar
+
+- Faça um Fork ou Clone do Repositório.
+	- Web
+	```
+	cd web
+	yarn install
+	yarn start
+	```
