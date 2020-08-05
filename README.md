@@ -15,7 +15,7 @@ Uma plataforma onde um professor de certa matéria possa disponibilizar seu cont
 
 ### Techs Backend Server
 - [Node.Js](https://nodejs.org/) é um interpretador de JavaScript assíncrono com código aberto orientado a eventos;
-- [Express](https://expressjs.com/pt-br/) projetado para criar aplicativos da Web e APIs é uma estrutura de servidor padrão de fato para o Node.js;
+- [Express](https://expressjs.com/pt-br/) projetado para criar aplicativos da Web e APIs, é uma estrutura de servidor padrão para o Node.js;
 - [SQLite](https://www.sqlite.org/) é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido;
 
 ### Como Instalar e Usar
