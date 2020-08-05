@@ -32,5 +32,6 @@ Uma plataforma onde um professor de certa matéria possa disponibilizar seu cont
 	```
 	cd server
 	yarn install
+	yarn knex:migrate
 	yarn start
 	```
