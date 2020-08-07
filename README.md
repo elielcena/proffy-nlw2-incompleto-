@@ -12,6 +12,7 @@ Uma plataforma onde um professor de certa matéria possa disponibilizar seu cont
 
 ### Techs Frontend Web
 - [React](https://pt-br.reactjs.org/) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web;
+- [Axios](https://github.com/axios/axios)  é um client HTTP baseado em promessa para o navegador e node.js (para fazer chamada as API's);
 
 ### Techs Backend Server
 - [Node.Js](https://nodejs.org/) é um interpretador de JavaScript assíncrono com código aberto orientado a eventos;
