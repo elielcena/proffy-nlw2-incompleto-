@@ -10,8 +10,13 @@
 ### Sobre
 Uma plataforma onde um professor de certa matéria possa disponibilizar seu contato para que alguém o contrate para dar aulas.
 
-### Techs Web
-- [React](https://pt-br.reactjs.org/) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web
+### Techs Frontend Web
+- [React](https://pt-br.reactjs.org/) é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web;
+
+### Techs Backend Server
+- [Node.Js](https://nodejs.org/) é um interpretador de JavaScript assíncrono com código aberto orientado a eventos;
+- [Express](https://expressjs.com/pt-br/) projetado para criar aplicativos da Web e APIs, é uma estrutura de servidor padrão para o Node.js;
+- [SQLite](https://www.sqlite.org/) é uma biblioteca em linguagem C que implementa um banco de dados SQL embutido;
 
 ### Como Instalar e Usar
 
@@ -20,5 +25,13 @@ Uma plataforma onde um professor de certa matéria possa disponibilizar seu cont
 	```
 	cd web
 	yarn install
+	yarn start
+	```
+	
+	- Server
+	```
+	cd server
+	yarn install
+	yarn knex:migrate
 	yarn start
 	```
